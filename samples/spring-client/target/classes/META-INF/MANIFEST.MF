@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Built-By: Jarvis
+Build-Jdk: 1.8.0_121
+Specification-Title: Apache Shiro :: Samples :: Spring Client
+Specification-Version: 1.3.2
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: Apache Shiro :: Samples :: Spring Client
+Implementation-Version: 1.3.2
+Implementation-Vendor-Id: org.apache.shiro.samples
+Implementation-Vendor: The Apache Software Foundation
+Created-By: Maven Integration for Eclipse
+SCM-Revision: Jarvis-2017-05-05T08:08:22Z
+SCM-url: https://github.com/apache/shiro/tree/shiro-root-1.3.2/shiro-s
+ amples/samples-spring-client
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/samples/aspectj/samples-aspectj.iml" filepath="$PROJECT_DIR$/samples/aspectj/samples-aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/guice/samples-guice.iml" filepath="$PROJECT_DIR$/samples/guice/samples-guice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/quickstart/samples-quickstart.iml" filepath="$PROJECT_DIR$/samples/quickstart/samples-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/quickstart-guice/samples-quickstart-guice.iml" filepath="$PROJECT_DIR$/samples/quickstart-guice/samples-quickstart-guice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/spring-hibernate/samples-sprhib.iml" filepath="$PROJECT_DIR$/samples/spring-hibernate/samples-sprhib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/spring/samples-spring.iml" filepath="$PROJECT_DIR$/samples/spring/samples-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/spring-client/samples-spring-client.iml" filepath="$PROJECT_DIR$/samples/spring-client/samples-spring-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/web/samples-web.iml" filepath="$PROJECT_DIR$/samples/web/samples-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/all/shiro-all.iml" filepath="$PROJECT_DIR$/all/shiro-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/aspectj/shiro-aspectj.iml" filepath="$PROJECT_DIR$/support/aspectj/shiro-aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/cas/shiro-cas.iml" filepath="$PROJECT_DIR$/support/cas/shiro-cas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/shiro-core.iml" filepath="$PROJECT_DIR$/core/shiro-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/ehcache/shiro-ehcache.iml" filepath="$PROJECT_DIR$/support/ehcache/shiro-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/features/shiro-features.iml" filepath="$PROJECT_DIR$/support/features/shiro-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/guice/shiro-guice.iml" filepath="$PROJECT_DIR$/support/guice/shiro-guice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/hazelcast/shiro-hazelcast.iml" filepath="$PROJECT_DIR$/support/hazelcast/shiro-hazelcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/quartz/shiro-quartz.iml" filepath="$PROJECT_DIR$/support/quartz/shiro-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro-root.iml" filepath="$PROJECT_DIR$/shiro-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/shiro-samples.iml" filepath="$PROJECT_DIR$/samples/shiro-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/spring/shiro-spring.iml" filepath="$PROJECT_DIR$/support/spring/shiro-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/shiro-support.iml" filepath="$PROJECT_DIR$/support/shiro-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/shiro-tools.iml" filepath="$PROJECT_DIR$/tools/shiro-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/hasher/shiro-tools-hasher.iml" filepath="$PROJECT_DIR$/tools/hasher/shiro-tools-hasher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/shiro-web.iml" filepath="$PROJECT_DIR$/web/shiro-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,50 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="samples-spring:war exploded">
+    <output-path>$PROJECT_DIR$/samples/spring/target/samples-spring-1.3.2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="samples-spring" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="samples-spring-client-1.3.2.jar">
+            <element id="module-output" name="samples-spring-client" />
+          </element>
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.4" />
+          <element id="archive" name="shiro-core-1.3.2.jar">
+            <element id="module-output" name="shiro-core" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.8.3" />
+          <element id="archive" name="shiro-ehcache-1.3.2.jar">
+            <element id="module-output" name="shiro-ehcache" />
+          </element>
+          <element id="archive" name="shiro-spring-1.3.2.jar">
+            <element id="module-output" name="shiro-spring" />
+          </element>
+          <element id="archive" name="shiro-web-1.3.2.jar">
+            <element id="module-output" name="shiro-web" />
+          </element>
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.6.4" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.6.4" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-asm:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: hsqldb:hsqldb:1.8.0.7" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.1.2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/samples/spring/target/samples-spring-1.3.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="samples-spring/web/Web" />
+    </root>
+  </artifact>
+</component>

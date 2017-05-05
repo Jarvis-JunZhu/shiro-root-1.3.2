@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="samples-guice:war">
+    <output-path>$PROJECT_DIR$/samples/guice/target</output-path>
+    <root id="archive" name="samples-guice-1.3.2.war">
+      <element id="artifact" artifact-name="samples-guice:war exploded" />
+    </root>
+  </artifact>
+</component>

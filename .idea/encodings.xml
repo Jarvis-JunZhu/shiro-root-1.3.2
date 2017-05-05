@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/aspectj" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/guice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/quickstart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/quickstart-guice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/spring-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/spring-hibernate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support/aspectj" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support/cas" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support/ehcache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support/features" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support/guice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support/hazelcast" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support/quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support/spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/hasher" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web" charset="UTF-8" />
+  </component>
+</project>

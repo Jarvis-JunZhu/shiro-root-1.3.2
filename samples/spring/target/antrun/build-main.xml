@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="E:\github\shiro-root-1.3.2\samples\spring\target/samples-spring-1.3.2/shiro.jnlp.jsp" todir="E:\github\shiro-root-1.3.2\samples\spring\target/samples-spring-1.3.2/WEB-INF/resources"/>
+</target>
+</project>

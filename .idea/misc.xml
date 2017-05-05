@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="Osmorc" url="file://$PROJECT_DIR$/core" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/support/aspectj" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/support/cas" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/support/ehcache" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/support/guice" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/support/hazelcast" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/support/quartz" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/support/spring" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/tools/hasher" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/web" />
+    <file type="web" url="file://$PROJECT_DIR$/samples/guice" />
+    <file type="web" url="file://$PROJECT_DIR$/samples/spring" />
+    <file type="web" url="file://$PROJECT_DIR$/samples/spring-hibernate" />
+    <file type="web" url="file://$PROJECT_DIR$/samples/web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
